@@ -28,6 +28,7 @@ import { AuthProvider, AuthContext } from './Auth/AuthProvider';
 import Login from './screens/Login';
 import MainPage from './MainPage';
 
+
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
